@@ -1,0 +1,3 @@
+D:/Naeem/Daneshgah/TERM2/pishrafte/tamtin5/Salary-calculation/cmake-build-debug/CMakeFiles/Salary_calculation.dir
+D:/Naeem/Daneshgah/TERM2/pishrafte/tamtin5/Salary-calculation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Naeem/Daneshgah/TERM2/pishrafte/tamtin5/Salary-calculation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
